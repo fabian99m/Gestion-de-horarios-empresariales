@@ -1,0 +1,36 @@
+
+a.btn{
+  margin-top: 10%;
+}
+.modal{
+ max-height:100%;
+ overflow:hidden;
+}
+
+input[type="submit"]{
+  width: 100%;
+  margin-top: 50px;
+}
+.modal-close{
+  position: absolute;
+  top:10px;
+  right:10px;
+  padding:0;
+  margin:0;
+}
+nav ul a{
+  color:#107067
+}
+.sidenav li a i {
+  float: left;
+  height: 48px;
+  line-height: 48px;
+  margin: 0 32px 0 0;
+  width: 24px;
+  color: #107067; 
+}
+nav .sidenav-trigger i {
+  color: #107067;
+}
+.sidenav li a i{
+  color: #107067}
